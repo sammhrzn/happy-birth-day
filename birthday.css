@@ -159,7 +159,7 @@ body {
 }
 
 .inside p {
-    color: #b80000;
+    color: #150453;
     font-size: large;
 }
 
@@ -181,7 +181,7 @@ button  {
 .popup .popup-text {
     visibility: hidden;
     width: 200px;
-    background-color: #ff0000;
+    background-color: #5900ff;
     color: #fff;
     text-align: center;
     font-size: 18.5px;
