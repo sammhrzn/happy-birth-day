@@ -7,6 +7,7 @@
 
 body {
     background-color: #fdbf00;
+    padding-bottom: 100px;
 }
 
 .card {
@@ -200,4 +201,25 @@ button  {
 .popup:hover .popup-text {
     visibility: visible;
     opacity: 1;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    background-color: transparent;
+    font-size: 13px;
+    color: #615f5f;
+}
+
+footer p {
+    transition: all 0.3s ease;
+}
+
+footer p:hover {
+    transform: scale(1.067);
+    color: #525253;
+    font-weight: 300;
 }
