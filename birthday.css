@@ -210,7 +210,7 @@ footer {
     text-align: center;
     padding: 10px;
     background-color: transparent;
-    font-size: 13px;
+    font-size: 11px;
     color: #615f5f;
 }
 
@@ -221,5 +221,6 @@ footer p {
 footer p:hover {
     transform: scale(1.067);
     color: #525253;
-    font-weight: 300;
+    font-weight: 400;
+    font-size: 13px;
 }
